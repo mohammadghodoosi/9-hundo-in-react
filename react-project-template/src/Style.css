@@ -1,0 +1,66 @@
+footer{
+  position: fixed;
+  bottom:0;
+  width:100%;
+}
+.page-container{
+  display:flex;
+  flex-direction: column;
+  min-height:100vh;
+}
+.content-wrap{
+  flex:1;
+}
+#navLogo{
+  margin-right:15px;
+  height:30px;
+}
+code[class*="language-"],
+pre[class*="language-"] {
+white-space: pre-wrap;
+word-break: break-all;
+word-wrap: break-word;
+}
+#footerHeight{
+  margin-top: -60px;
+  margin-bottom: -60px;
+}
+
+
+#navLink{
+  font-size: 15px;
+  font-family: 'PT Sans', sans-serif;
+
+}
+
+p,div,strong,a,li{
+  font-family: 'PT Sans', sans-serif;
+}
+
+
+
+h1,h2,h3,h4,h5,h6{
+  text-transform: uppercase;
+  font-family: 'Philosopher', sans-serif;
+  color:#1d5888
+}
+
+.btn{
+  font-family: 'PT Sans', sans-serif;
+  background-color: #1d5888;
+  color:white
+}
+
+.fa-li{
+  color:#1d5888
+}
+
+#navBrand{
+  text-transform: uppercase;
+  font-family: 'Philosopher', sans-serif;
+  color:white;
+  font-size:20px;
+  margin-right:40px;
+  display:flex;
+  align-items:center;
+}
