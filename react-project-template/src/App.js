@@ -16,7 +16,7 @@ function App() {
     <div className="page-container">
       <div className="content-wrap">
          <Helmet>
-        <title>My Title</title>
+        <title>HUNDO</title>
         <meta name="description" content="Helmet application" />
     </Helmet>
       <Router>
